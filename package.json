@@ -1,0 +1,23 @@
+{
+  "name": "@kristineuchendu/olsen-project",
+  "version": "1.0.0",
+  "description": "The machine learning project for those who still can't differentiate Mary-Kate and Ashley.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristinescloud/olsen-project.git"
+  },
+  "author": "Kristine Uchendu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kristinescloud/olsen-project/issues"
+  },
+  "homepage": "https://github.com/kristinescloud/olsen-project#readme",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
