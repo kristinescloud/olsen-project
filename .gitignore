@@ -1,0 +1,7 @@
+olsen-env/
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+.env
+.DS_Store
